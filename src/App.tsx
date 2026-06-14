@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { CartProvider, CartContext } from './context/CartContext';
 import { DiscountList } from './components/Discounts/DiscountList';
 import { CartSummary } from './components/Cart/CartSummary';
